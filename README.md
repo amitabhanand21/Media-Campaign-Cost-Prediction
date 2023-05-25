@@ -1,8 +1,8 @@
-# Media-Campaign-Cost-Prediction
-Tabular Regression with a Media Campaign Cost Dataset (Kaggle competion)
-# The task at hand is to develop a machine learning model that can predict the cost of media campaigns in food marts.
+# Media-Campaign-Cost-Prediction (Kaggle bronze medal for the notebook)
+Regression analysis for the cost prediction of a Media Campaign
+## The task at hand is to develop a machine learning model that can predict the cost of media campaigns in food marts.
 The dataset provided has 16 columns which contain various features that can potentially affect the cost of media campaigns in food marts. These features include store sales, unit sales, household characteristics such as the number of children and cars at home, the weight of the food item, packaging type, low-fat options, units per case, store area, and availability of various facilities such as coffee bars, video stores, salad bars, prepared food, and florist shelves. The target variable or dependent variable is the cost of acquiring a customer in dollars, which is the column named "Cost" in the dataset.
-# Columns
+## Columns
     id
     store_sales(in millions)
     unit_sales(in millions)
